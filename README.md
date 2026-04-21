@@ -14,7 +14,7 @@
   </a>
   <br>
   <img src="https://img.shields.io/badge/Location-Tehran,%20Iran-orange?style=for-the-badge&logo=map-marker-alt&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Relocation-brightgreen?style=for-the-badge" alt="Work Status">
+  <img src="https://img.shields.io/badge/Open%20to-%20%7C%20Relocation-brightgreen?style=for-the-badge" alt="Work Status">
 </p>
 
 ---
